@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub/single-introductory-section-01j0V1uJ2w)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-cpcuYGnGvQ)
 - Live Site URL: [Github](https://kinjames.github.io/advice-generator/)
 
 ## My process
